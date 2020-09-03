@@ -3,7 +3,7 @@ title: About
 feature_text: |
   ## Robot learning seminar series
   Fall 2020, Virtual
-feature_image: "/assets/banner.png"
+feature_image: "assets/img/banner.png"
 excerpt: "The [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) and [Mila](https://mila.quebec/en/) is proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays."
 ---
 
