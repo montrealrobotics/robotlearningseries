@@ -1,0 +1,73 @@
+I"E<p>The <a href="https://montrealrobotics.ca/">Robotics and Embodied AI Lab</a> and <a href="https://mila.quebec/en/">Mila</a> is proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays.</p>
+
+<h2 id="speakers">Speakers</h2>
+
+<table>
+    <!-- Florian Shkurti -->
+    <tr valign="middle" style="background-color:#cccccc">
+        <td>
+            <div class="col-xs-3">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/florian.jpg" />
+                </p>
+            </div>
+        </td>
+        <td style="width:40%">
+            <p align="center">
+                <a href="http://www.cs.toronto.edu/~florian/" target="_blank"><b>Florian Shkurti</b></a> <br /> Assistant professor <br /> <a href="http://www.utoronto.ca" target="_blank">University of Toronto</a>
+            </p>
+        </td>
+        <td style="width:35%">
+        	<p align="center">
+        		4 September 2020 <br /> 1500 hrs EDT
+        	</p>
+        </td>
+    </tr>
+    <!-- Valentin Peretroukhin -->
+    <tr valign="middle">
+        <td>
+            <div class="col-xs-3">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/valentin.jpg" />
+                </p>
+            </div>
+        </td>
+        <td>
+            <div class="people-name text-center">
+                <a href="https://valentinp.com/" target="_blank">Valentin Peretroukhin</a>, Postdoctoral associate, <a href="http://groups.csail.mit.edu/rrg/" target="_blank">MIT CSAIL</a>
+            </div>
+        </td>
+        <td><div class="people-name text-center">18 September 2020, 1500 hrs EDT</div></td>
+    </tr>
+</table>
+
+<h2 id="schedule">Schedule</h2>
+
+<ul>
+  <li>Available as a <strong>theme gem</strong> and <strong>GitHub Pages</strong> theme</li>
+  <li>Clear and elegant design that can be used out of the box or as solid starting point</li>
+  <li>Tested in all major browsers, including <strong>IE and Edge</strong></li>
+  <li>Built in <strong>Service Worker</strong> so it can work offline and on slow connections</li>
+  <li><strong>Configurable colours</strong> and typography in a single settings file</li>
+  <li>Extensive set of <strong>shortcodes</strong> to include various elements; such as buttons, icons, figure images and more</li>
+  <li>Solid <strong>typographic framework</strong> from <a href="https://sassline.com/">Sassline</a></li>
+  <li>Configurable navigation via a single file</li>
+  <li>Modular Jekyll components</li>
+  <li>Post category support in the form of a single post index page grouped by category</li>
+  <li>Built in live search using JavaScript</li>
+  <li><strong>Contact form</strong> built in using <a href="https://formspree.io/">Formspree</a></li>
+  <li>Designed with <strong><a href="https://www.siteleaf.com/">Siteleaf</a></strong> in mind</li>
+  <li>Has 9 of the most popular networks as performant sharing buttons</li>
+  <li>Has documentation</li>
+</ul>
+
+<h2 id="organizers">Organizers</h2>
+
+<p>Here are a few examples of Alembic out in the wild being used in a variety of ways:</p>
+
+<ul>
+  <li><a href="https://bawejakunal.github.io/">bawejakunal.github.io</a></li>
+  <li><a href="https://case2111.github.io/">case2111.github.io</a></li>
+  <li><a href="https://www.karateca.org/">karateca.org</a></li>
+</ul>
+:ET
