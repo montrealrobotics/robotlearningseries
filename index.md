@@ -145,7 +145,27 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:40%">
             <p align="center">
-                <a href="http://ronnieclark.co.uk/" target="_blank"><b>Ronald Clark</b></a>  <br> Research fellow  <br> <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>
+                <a href="https://ronnieclark.co.uk/" target="_blank"><b>Ronald Clark</b></a>  <br> Research fellow  <br> <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>
+            </p>
+        </td>
+        <td style="width:35%">
+        	<p align="center">
+        		TBD <br> TBD
+        	</p>
+        </td>
+    </tr>
+    <!-- Lerrel Pinto -->
+    <tr valign="middle">
+        <td>
+            <div class="col-xs-3">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/lerrel.jpg">
+                </p>
+            </div>
+        </td>
+        <td style="width:40%">
+            <p align="center">
+                <a href="https://cs.nyu.edu/~lp91/#" target="_blank"><b>Lerrel Pinto</b></a>  <br> Assistant Professor  <br> <a href="https://cs.nyu.edu/home/index.html" target="_blank">New York University</a>
             </p>
         </td>
         <td style="width:35%">
