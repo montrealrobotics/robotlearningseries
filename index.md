@@ -1,5 +1,4 @@
 ---
-title: About
 feature_text: |
   ## Robot Learning Seminar Series
   Fall 2020, Virtual
@@ -16,39 +15,53 @@ We're excited to have the following speakers this Fall! Follow this space for sc
 <table>
     <!-- Florian Shkurti -->
     <tr valign="middle">
-        <td>
+        <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
                     <img class="people-pic" src="assets/img/florian.jpg">
                 </p>
             </div>
         </td>
-        <td style="width:40%">
+        <td style="width:50%">
             <p align="center">
-                <a href="http://www.cs.toronto.edu/~florian/" target="_blank"><b>Florian Shkurti</b></a> <br> Assistant professor <br> <a href="http://www.utoronto.ca" target="_blank">University of Toronto</a>
+                <b>Robot Videography from Human Specifications</b>
+                <br>
+                <a href="http://www.cs.toronto.edu/~florian/" target="_blank"><b>Florian Shkurti</b></a>
+                <br>
+                Assistant professor
+                <br>
+                <a href="http://www.utoronto.ca" target="_blank">University of Toronto</a>
             </p>
         </td>
-        <td style="width:35%">
+        <td style="width:25%">
         	<p align="center">
-        		4 September 2020 <br> 1600 hrs EDT
+        		4 September 2020
+                <br>
+                1600 hrs EDT
+                <br>
+                [<a href="https://youtu.be/i0fPwnVe6zA" target="_blank">Livestream link</a>] [Slides]
+                <br>
+                [<a href="https://app.sli.do/event/1lyeqt8q/live/questions" target="_blank">Ask questions</a>]
         	</p>
         </td>
     </tr>
     <!-- Valentin Peretroukhin -->
     <tr valign="middle" style="background-color:#f0f0f0">
-        <td>
+        <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
                     <img class="people-pic" src="assets/img/valentin.jpg">
                 </p>
             </div>
         </td>
-        <td style="width:40%">
+        <td style="width:50%">
             <p align="center">
+                <b>TBA</b>
+                <br>
                 <a href="https://valentinp.com/" target="_blank"><b>Valentin Peretroukhin</b></a>  <br> Postdoctoral associate  <br> <a href="http://groups.csail.mit.edu/rrg/" target="_blank">MIT CSAIL</a>
             </p>
         </td>
-        <td style="width:35%">
+        <td style="width:25%">
         	<p align="center">
         		18 September 2020 <br> 1600 hrs EDT
         	</p>
@@ -56,19 +69,21 @@ We're excited to have the following speakers this Fall! Follow this space for sc
     </tr>
     <!-- Ankur Handa -->
     <tr valign="middle">
-        <td>
+        <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
                     <img class="people-pic" src="assets/img/ankur.jpg">
                 </p>
             </div>
         </td>
-        <td style="width:40%">
+        <td style="width:50%">
             <p align="center">
+                <b>TBA</b>
+                <br>
                 <a href="https://ankurhanda.github.io/" target="_blank"><b>Ankur Handa</b></a>  <br> Research scientist  <br> <a href="https://www.nvidia.com/en-us/research/" target="_blank">NVIDIA</a>
             </p>
         </td>
-        <td style="width:35%">
+        <td style="width:25%">
         	<p align="center">
         		25 September 2020 <br> 1600 hrs EDT
         	</p>
@@ -76,101 +91,111 @@ We're excited to have the following speakers this Fall! Follow this space for sc
     </tr>
     <!-- Shubham Tulsiani -->
     <tr valign="middle" style="background-color:#f0f0f0">
-        <td>
+        <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
                     <img class="people-pic" src="assets/img/shubham.jpg">
                 </p>
             </div>
         </td>
-        <td style="width:40%">
+        <td style="width:50%">
             <p align="center">
+                <b>TBA</b>
+                <br>
                 <a href="https://shubhtuls.github.io/" target="_blank"><b>Shubham Tulsiani</b></a>  <br> Research scientist  <br> <a href="https://research.fb.com/category/facebook-ai-research/" target="_blank">Facebook AI Research</a>
             </p>
         </td>
-        <td style="width:35%">
+        <td style="width:25%">
         	<p align="center">
         		9 October 2020 <br> 1600 hrs EDT
         	</p>
         </td>
     </tr>
-    <!-- Mustafa Mukadam -->
-    <tr valign="middle">
-        <td>
-            <div class="col-xs-3">
-                <p align="center">
-                    <img class="people-pic" src="assets/img/mustafa.jpg">
-                </p>
-            </div>
-        </td>
-        <td style="width:40%">
-            <p align="center">
-                <a href="https://mustafamukadam.com" target="_blank"><b>Mustafa Mukadam</b></a>  <br> Research scientist  <br> <a href="https://research.fb.com/category/facebook-ai-research/" target="_blank">Facebook AI Research</a>
-            </p>
-        </td>
-        <td style="width:35%">
-        	<p align="center">
-        		6 November 2020 <br> 1600 hrs EDT
-        	</p>
-        </td>
-    </tr>
-    <!-- Shuran Song -->
-    <tr valign="middle" style="background-color:#f0f0f0">
-        <td>
-            <div class="col-xs-3">
-                <p align="center">
-                    <img class="people-pic" src="assets/img/shuran.jpg">
-                </p>
-            </div>
-        </td>
-        <td style="width:40%">
-            <p align="center">
-                <a href="https://shurans.github.io/" target="_blank"><b>Shuran Song</b></a>  <br> Assistant Professor  <br> <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>
-            </p>
-        </td>
-        <td style="width:35%">
-        	<p align="center">
-        		20 November 2020 <br> 1600 hrs EDT
-        	</p>
-        </td>
-    </tr>
     <!-- Ronald Clark -->
     <tr valign="middle">
-        <td>
+        <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
                     <img class="people-pic" src="assets/img/ronnie.png">
                 </p>
             </div>
         </td>
-        <td style="width:40%">
+        <td style="width:50%">
             <p align="center">
+                <b>TBA</b>
+                <br>
                 <a href="https://ronnieclark.co.uk/" target="_blank"><b>Ronald Clark</b></a>  <br> Research fellow  <br> <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>
             </p>
         </td>
-        <td style="width:35%">
-        	<p align="center">
-        		TBD <br> TBD
-        	</p>
+        <td style="width:25%">
+            <p align="center">
+                16 October 2020 <br> TBD
+            </p>
         </td>
     </tr>
     <!-- Lerrel Pinto -->
-    <tr valign="middle">
-        <td>
+    <tr valign="middle"  style="background-color:#f0f0f0">
+        <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
                     <img class="people-pic" src="assets/img/lerrel.jpg">
                 </p>
             </div>
         </td>
-        <td style="width:40%">
+        <td style="width:50%">
             <p align="center">
+                <b>TBA</b>
+                <br>
                 <a href="https://cs.nyu.edu/~lp91/#" target="_blank"><b>Lerrel Pinto</b></a>  <br> Assistant Professor  <br> <a href="https://cs.nyu.edu/home/index.html" target="_blank">New York University</a>
             </p>
         </td>
-        <td style="width:35%">
+        <td style="width:25%">
+            <p align="center">
+                23 October 2020 <br> 1500 hrs EDT
+            </p>
+        </td>
+    </tr>
+    <!-- Mustafa Mukadam -->
+    <tr valign="middle">
+        <td style="width:25%">
+            <div class="col-xs-3">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/mustafa.jpg">
+                </p>
+            </div>
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>TBA</b>
+                <br>
+                <a href="https://mustafamukadam.com" target="_blank"><b>Mustafa Mukadam</b></a>  <br> Research scientist  <br> <a href="https://research.fb.com/category/facebook-ai-research/" target="_blank">Facebook AI Research</a>
+            </p>
+        </td>
+        <td style="width:25%">
         	<p align="center">
-        		TBD <br> TBD
+        		6 November 2020 <br> 1600 hrs EST
+        	</p>
+        </td>
+    </tr>
+    <!-- Shuran Song -->
+    <tr valign="middle" style="background-color:#f0f0f0">
+        <td style="width:25%">
+            <div class="col-xs-3">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/shuran.jpg">
+                </p>
+            </div>
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>TBA</b>
+                <br>
+                <a href="https://shurans.github.io/" target="_blank"><b>Shuran Song</b></a>  <br> Assistant Professor  <br> <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>
+            </p>
+        </td>
+        <td style="width:25%">
+        	<p align="center">
+        		20 November 2020 <br> 1600 hrs EST
         	</p>
         </td>
     </tr>
@@ -181,7 +206,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
 
 <table>
     <!-- Photos -->
-    <tr valign="middle">
+    <tr valign="bottom">
         <td style="width:30%">
             <div class="col-xs-3">
                 <p align="center">
@@ -205,7 +230,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
     </tr>
     <!-- Names -->
-    <tr valign="middle">
+    <tr valign="top">
         <td style="width:33%">
             <div class="col-xs-3">
                 <p align="center">
