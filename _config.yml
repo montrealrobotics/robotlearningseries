@@ -93,7 +93,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Robot learning seminar - Mila" # Site name or title, also used in jekyll-seo-tag
-logo: "assets/img/favicon.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/img/favicon.png" # Site logo, also used in jekyll-seo-tag
 description: "Robot learning seminar, Fall 2020" # Site description and default description, also used in jekyll-seo-tag
 url: "https://montrealrobotics.ca/robotlearningseminar" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -107,12 +107,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
-  270: "assets/img/favicon.png"
+  270: "/assets/img/favicon.png"
 
 # 9. Site navigation
 navigation_header:
 - title: Home
   url: /
+- title: Summer 2020 (old)
+  url: /summer2020
 # - title: Elements
 #   url: /elements/
 # - title: Blog
