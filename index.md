@@ -199,6 +199,28 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         	</p>
         </td>
     </tr>
+    <!-- Angela Schoellig -->
+    <tr valign="middle" style="background-color:#f0f0f0">
+        <td style="width:25%">
+            <div class="col-xs-3">
+                <p align="center">
+                    <img class="people-pic" src="assets/img/angela.jpg">
+                </p>
+            </div>
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>TBA</b>
+                <br>
+                <a href="https://www.dynsyslab.org/prof-angela-schoellig/" target="_blank"><b>Angela Schoellig</b></a>  <br> Assistant Professor  <br> <a href="https://www.utias.utoronto.ca/" target="_blank">UTIAS, University of Toronto</a>
+            </p>
+        </td>
+        <td style="width:25%">
+            <p align="center">
+                4 December 2020 <br> 1600 hrs EST
+            </p>
+        </td>
+    </tr>
 </table>
 
 
