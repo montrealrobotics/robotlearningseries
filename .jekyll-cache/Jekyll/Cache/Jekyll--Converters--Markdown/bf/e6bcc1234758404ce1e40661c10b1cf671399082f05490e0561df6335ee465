@@ -1,4 +1,5 @@
-I"f'<p>The <a href="https://montrealrobotics.ca/">Robotics and Embodied AI Lab</a> and <a href="https://mila.quebec/en/">Mila</a> are proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays and are streamed on <a href="https://www.youtube.com/channel/UCOouaBg4gHIlNvPkJn_8ooA">our YouTube channel</a>.</p>
+I"
+)<p>The <a href="https://montrealrobotics.ca/">Robotics and Embodied AI Lab</a> and <a href="https://mila.quebec/en/">Mila</a> are proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays and are streamed on <a href="https://www.youtube.com/channel/UCOouaBg4gHIlNvPkJn_8ooA">our YouTube channel</a>.</p>
 
 <h2 id="speakers">Speakers</h2>
 
@@ -144,6 +145,21 @@
         <td style="width:25%">
             <p align="center">
                 23 October 2020 <br /> 1500 hrs EDT
+            </p>
+        </td>
+    </tr>
+    <!-- IROS/ICRA Break -->
+    <tr valign="middle" style="background-color:#cccccc">
+        <td style="width:25%">
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>Break (IROS 2020, ICRA 2021 deadline</b>
+            </p>
+        </td>
+        <td style="width:25%">
+            <p align="center">
+                30 October 2020
             </p>
         </td>
     </tr>
