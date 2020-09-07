@@ -39,9 +39,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
                 <br>
                 1600 hrs EDT
                 <br>
-                [<a href="https://youtu.be/i0fPwnVe6zA" target="_blank">Livestream link</a>] [Slides]
-                <br>
-                [<a href="https://app.sli.do/event/1lyeqt8q/live/questions" target="_blank">Ask questions</a>]
+                [<a href="https://youtu.be/i0fPwnVe6zA" target="_blank">Watch recording</a>]
         	</p>
         </td>
     </tr>

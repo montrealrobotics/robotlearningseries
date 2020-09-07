@@ -1,5 +1,4 @@
-I"
-)<p>The <a href="https://montrealrobotics.ca/">Robotics and Embodied AI Lab</a> and <a href="https://mila.quebec/en/">Mila</a> are proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays and are streamed on <a href="https://www.youtube.com/channel/UCOouaBg4gHIlNvPkJn_8ooA">our YouTube channel</a>.</p>
+I"B-<p>The <a href="https://montrealrobotics.ca/">Robotics and Embodied AI Lab</a> and <a href="https://mila.quebec/en/">Mila</a> are proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays and are streamed on <a href="https://www.youtube.com/channel/UCOouaBg4gHIlNvPkJn_8ooA">our YouTube channel</a>.</p>
 
 <h2 id="speakers">Speakers</h2>
 
@@ -32,10 +31,23 @@
                 <br />
                 1600 hrs EDT
                 <br />
-                [<a href="https://youtu.be/i0fPwnVe6zA" target="_blank">Livestream link</a>] [Slides]
-                <br />
-                [<a href="https://app.sli.do/event/1lyeqt8q/live/questions" target="_blank">Ask questions</a>]
+                [<a href="https://youtu.be/i0fPwnVe6zA" target="_blank">Watch recording</a>]
         	</p>
+        </td>
+    </tr>
+    <!-- MAIS break -->
+    <tr valign="middle" style="background-color:#aaaaaa">
+        <td style="width:25%">
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>Break </b> <br /> (Montreal AI Symposium)
+            </p>
+        </td>
+        <td style="width:25%">
+            <p align="center">
+                11 September 2020
+            </p>
         </td>
     </tr>
     <!-- Valentin Peretroukhin -->
@@ -149,12 +161,12 @@
         </td>
     </tr>
     <!-- IROS/ICRA Break -->
-    <tr valign="middle" style="background-color:#cccccc">
+    <tr valign="middle" style="background-color:#aaaaaa">
         <td style="width:25%">
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>Break (IROS 2020, ICRA 2021 deadline</b>
+                <b>Break (IROS 2020; ICRA 2021 deadline)</b>
             </p>
         </td>
         <td style="width:25%">
@@ -185,6 +197,21 @@
         	</p>
         </td>
     </tr>
+    <!-- CVPR deadline break -->
+    <tr valign="middle" style="background-color:#aaaaaa">
+        <td style="width:25%">
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>Break (CVPR 2021 deadline)</b>
+            </p>
+        </td>
+        <td style="width:25%">
+            <p align="center">
+                12 November 2020
+            </p>
+        </td>
+    </tr>
     <!-- Shuran Song -->
     <tr valign="middle" style="background-color:#f0f0f0">
         <td style="width:25%">
@@ -207,8 +234,23 @@
         	</p>
         </td>
     </tr>
+    <!-- US thanksgiving break -->
+    <tr valign="middle" style="background-color:#aaaaaa">
+        <td style="width:25%">
+        </td>
+        <td style="width:50%">
+            <p align="center">
+                <b>Break (US Thanksgiving weekend)</b>
+            </p>
+        </td>
+        <td style="width:25%">
+            <p align="center">
+                12 November 2020
+            </p>
+        </td>
+    </tr>
     <!-- Angela Schoellig -->
-    <tr valign="middle" style="background-color:#f0f0f0">
+    <tr valign="middle">
         <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
