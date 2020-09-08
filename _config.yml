@@ -96,7 +96,8 @@ title: "Robot learning seminar - Mila" # Site name or title, also used in jekyll
 logo: "assets/img/favicon.png" # Site logo, also used in jekyll-seo-tag
 description: "Robot learning seminar, Fall 2020" # Site description and default description, also used in jekyll-seo-tag
 url: "https://montrealrobotics.ca/robotlearningseminar" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://montrealrobotics.ca/robotlearningseminar"
+# baseurl: ""
 repo: "https://github.com/montrealrobotics/robotlearningseminar"
 email: "krrish94@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -113,8 +114,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-# - title: Summer 2020 (old)
-#   url: summer2020
+- title: Summer 2020 (old)
+  url: summer2020
 # - title: Elements
 #   url: /elements/
 # - title: Blog
