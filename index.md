@@ -8,7 +8,7 @@ excerpt: "The [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) and [
 
 The [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) and [Mila](https://mila.quebec/en/) are proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays and are streamed on [our YouTube channel](https://www.youtube.com/channel/UCOouaBg4gHIlNvPkJn_8ooA).
 
-You can [download](assets/robotlearningseries.ics) our schedule and add this to your calendar.
+You can [download](assets/resources/robotlearningseries.ics) our schedule and add this to your calendar.
 
 
 ## Speakers
