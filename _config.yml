@@ -96,7 +96,7 @@ title: "Robot learning seminar - Mila" # Site name or title, also used in jekyll
 logo: "assets/img/favicon.png" # Site logo, also used in jekyll-seo-tag
 description: "Robot learning seminar, Fall 2020" # Site description and default description, also used in jekyll-seo-tag
 url: "https://montrealrobotics.ca/robotlearningseminar" # Site url, also used in jekyll-seo-tag
-baseurl: "https://montrealrobotics.github.io/robotlearningseminar"
+baseurl: "https://montrealrobotics.ca/robotlearningseminar/"
 baseurl: ""
 repo: "https://github.com/montrealrobotics/robotlearningseminar"
 email: "krrish94@gmail.com"
