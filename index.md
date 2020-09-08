@@ -8,6 +8,9 @@ excerpt: "The [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) and [
 
 The [Robotics and Embodied AI Lab](https://montrealrobotics.ca/) and [Mila](https://mila.quebec/en/) are proud to present a robot learning seminar series; a set of virtual talks by researchers in this field. Seminars usually take place at 1600 hrs Eastern time on Fridays and are streamed on [our YouTube channel](https://www.youtube.com/channel/UCOouaBg4gHIlNvPkJn_8ooA).
 
+You can [download](assets/robotlearningseries.ics) our schedule and add this to your calendar.
+
+
 ## Speakers
 
 We're excited to have the following speakers this Fall! Follow this space for schedule updates, and for talk recordings and resources.
@@ -39,7 +42,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
                 <br>
                 1600 hrs EDT
                 <br>
-                [<a href="https://youtu.be/i0fPwnVe6zA" target="_blank">Watch recording</a>]
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/i0fPwnVe6zA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
@@ -76,7 +79,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
         	<p align="center">
-        		18 September 2020 <br> 1600 hrs EDT
+        		18 September 2020 <br> 1600 hrs EDT <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/Idf3SvArBWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
@@ -98,7 +102,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
         	<p align="center">
-        		25 September 2020 <br> 1600 hrs EDT
+        		25 September 2020 <br> 1600 hrs EDT <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/2BPa1YFhSL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
@@ -120,7 +125,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
         	<p align="center">
-        		9 October 2020 <br> 1600 hrs EDT
+        		9 October 2020 <br> 1600 hrs EDT <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/LWQ1QNT9z7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
@@ -142,7 +148,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
             <p align="center">
-                16 October 2020 <br> TBD
+                16 October 2020 <br> TBD <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/fLjDMKnmtYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
         </td>
     </tr>
@@ -164,7 +171,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
             <p align="center">
-                23 October 2020 <br> 1500 hrs EDT
+                23 October 2020 <br> 1500 hrs EDT <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/rPrqCPJc6wU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
         </td>
     </tr>
@@ -201,7 +209,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
         	<p align="center">
-        		6 November 2020 <br> 1600 hrs EST
+        		6 November 2020 <br> 1600 hrs EST <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/rLvFFBHDbAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
@@ -238,7 +247,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
         	<p align="center">
-        		20 November 2020 <br> 1600 hrs EST
+        		20 November 2020 <br> 1600 hrs EST <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/oHMukFPmGcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
@@ -275,7 +285,8 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:25%">
             <p align="center">
-                4 December 2020 <br> 1600 hrs EST
+                4 December 2020 <br> 1600 hrs EST <br>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/O2i7KYuCzgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
         </td>
     </tr>
