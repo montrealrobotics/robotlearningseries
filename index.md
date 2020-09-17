@@ -72,7 +72,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Representing rotation in deep learning</b>
                 <br>
                 <a href="https://valentinp.com/" target="_blank"><b>Valentin Peretroukhin</b></a>  <br> Postdoctoral associate  <br> <a href="http://groups.csail.mit.edu/rrg/" target="_blank">MIT CSAIL</a>
             </p>
