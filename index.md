@@ -95,7 +95,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>DexPilot: Vision-based teleoperation of dextrous robotic hand-arm system</b>
                 <br>
                 <a href="https://ankurhanda.github.io/" target="_blank"><b>Ankur Handa</b></a>  <br> Research scientist  <br> <a href="https://www.nvidia.com/en-us/research/" target="_blank">NVIDIA</a>
             </p>
