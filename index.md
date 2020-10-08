@@ -118,7 +118,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Self-supervised interaction with the physical world</b>
                 <br>
                 <a href="https://shubhtuls.github.io/" target="_blank"><b>Shubham Tulsiani</b></a>  <br> Research scientist  <br> <a href="https://research.fb.com/category/facebook-ai-research/" target="_blank">Facebook AI Research</a>
             </p>
