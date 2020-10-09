@@ -126,7 +126,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         <td style="width:25%">
         	<p align="center">
         		9 October 2020 <br> 1600 hrs EDT <br>
-                <iframe width="270" height="160" src="https://www.youtube.com/embed/LWQ1QNT9z7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="270" height="160" src="https://www.youtube.com/embed/lOqAx0TRO1A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         	</p>
         </td>
     </tr>
