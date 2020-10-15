@@ -18,7 +18,7 @@ Last summer, we hosted speakers both from our lab, and from elsewhere! Here is a
         <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/summer2020/stefanie.jpg">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/summer2020/stefanie.jpg">
                 </p>
             </div>
         </td>
@@ -48,7 +48,7 @@ Last summer, we hosted speakers both from our lab, and from elsewhere! Here is a
         <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/summer2020/rika.jpg">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/summer2020/rika.jpg">
                 </p>
             </div>
         </td>
@@ -78,7 +78,7 @@ Last summer, we hosted speakers both from our lab, and from elsewhere! Here is a
         <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/summer2020/gunshi.jpg">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/summer2020/gunshi.jpg">
                 </p>
             </div>
         </td>
@@ -108,7 +108,7 @@ Last summer, we hosted speakers both from our lab, and from elsewhere! Here is a
         <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/summer2020/igor.jpg">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/summer2020/igor.jpg">
                 </p>
             </div>
         </td>
@@ -138,7 +138,7 @@ Last summer, we hosted speakers both from our lab, and from elsewhere! Here is a
         <td style="width:25%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/summer2020/bhairav.jpg">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/summer2020/bhairav.jpg">
                 </p>
             </div>
         </td>
@@ -174,14 +174,14 @@ Last summer, we hosted speakers both from our lab, and from elsewhere! Here is a
         <td style="width:40%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/zhen.jpg">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/zhen.jpg">
                 </p>
             </div>
         </td>
         <td style="width:40%">
             <div class="col-xs-3">
                 <p align="center">
-                    <img class="people-pic" src="assets/img/liam.png">
+                    <img class="people-pic" src="/robotlearningseries/assets/img/liam.png">
                 </p>
             </div>
         </td>
