@@ -141,7 +141,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Representation Learning for 3D Vision</b>
                 <br>
                 <a href="https://ronnieclark.co.uk/" target="_blank"><b>Ronald Clark</b></a>  <br> Research fellow  <br> <a href="https://www.imperial.ac.uk/" target="_blank">Imperial College London</a>
             </p>
