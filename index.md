@@ -164,7 +164,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Robot learning in the wild</b>
                 <br>
                 <a href="https://cs.nyu.edu/~lp91/#" target="_blank"><b>Lerrel Pinto</b></a>  <br> Assistant Professor  <br> <a href="https://cs.nyu.edu/home/index.html" target="_blank">New York University</a>
             </p>
@@ -202,7 +202,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Differentiable motion planning</b>
                 <br>
                 <a href="https://mustafamukadam.com" target="_blank"><b>Mustafa Mukadam</b></a>  <br> Research scientist  <br> <a href="https://research.fb.com/category/facebook-ai-research/" target="_blank">Facebook AI Research</a>
             </p>
@@ -240,7 +240,7 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Active scene understanding with robot interactions</b>
                 <br>
                 <a href="https://shurans.github.io/" target="_blank"><b>Shuran Song</b></a>  <br> Assistant Professor  <br> <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>
             </p>
