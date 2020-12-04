@@ -278,14 +278,14 @@ We're excited to have the following speakers this Fall! Follow this space for sc
         </td>
         <td style="width:50%">
             <p align="center">
-                <b>TBA</b>
+                <b>Combining models and data for increased performance and safety in robotics</b>
                 <br>
                 <a href="https://www.dynsyslab.org/prof-angela-schoellig/" target="_blank"><b>Angela Schoellig</b></a>  <br> Assistant Professor  <br> <a href="https://www.utias.utoronto.ca/" target="_blank">UTIAS, University of Toronto</a>
             </p>
         </td>
         <td style="width:25%">
             <p align="center">
-                4 December 2020 <br> 1600 hrs EST <br>
+                4 December 2020 <br> 1610 hrs EST <br>
                 <iframe width="270" height="160" src="https://www.youtube.com/embed/O2i7KYuCzgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
         </td>
