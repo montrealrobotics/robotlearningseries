@@ -99,4 +99,4 @@ collections:
 #   - vendor/ruby/
 
 # Google analytics id. Add your tracking id to get visitor stats.
-# google_analytics: # tracking id
+google_analytics: UA-130243767-1
