@@ -32,7 +32,7 @@ img: animesh.jpg
 title: To be determined
 
 # Date of the talk
-talkdate: 22 January 2021
+talkdate: 5 February 2021
 
 # Time of the talk
 talktime: 1600 hrs EST
