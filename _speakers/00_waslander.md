@@ -29,7 +29,7 @@ affil_link: https://www.utoronto.ca/
 img: waslander.jpg
 
 # Talk title
-title: To be determined
+title: Probabilistic Object Detection for Autonomous Driving
 
 # Date of the talk
 talkdate: 15 January 2021
