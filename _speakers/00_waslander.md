@@ -38,7 +38,7 @@ talkdate: 15 January 2021
 talktime: 1600 hrs EST
 
 # Link to the talk
-# talklink: https://www.youtube.com/embed/oHMukFPmGcI
+talklink: https://www.youtube.com/watch?v=z3mXvchZ048&ab_channel=Montr%C3%A9alRoboticsandEmbodiedAILab
 ---
 
 <!-- Whatever you write below will be disregarded -->
