@@ -29,7 +29,7 @@ affil2_link: https://www.nvidia.com/en-us/research/
 img: animesh.jpg
 
 # Talk title
-title: To be determined
+title: Building blocks of Generalizable Autonomy in Robotics
 
 # Date of the talk
 talkdate: 5 February 2021
