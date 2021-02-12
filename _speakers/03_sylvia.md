@@ -22,7 +22,7 @@ affil_link: https://ucsd.edu/
 img: sylvia.png
 
 # Talk title
-title: To be determined
+title: Safe Real-World Autonomy in Uncertain and Unstructured Environments
 
 # Date of the talk
 talkdate: 12 February 2021
