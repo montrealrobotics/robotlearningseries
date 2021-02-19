@@ -22,7 +22,7 @@ affil_link: https://www.tu-darmstadt.de/index.en.jsp
 img: georgia.jpg
 
 # Talk title
-title: To be determined
+title: Robot Learning for Intelligent Robotic Assistants
 
 # Date of the talk
 talkdate: 19 February 2021
