@@ -22,7 +22,7 @@ affil_link: https://www.ri.cmu.edu/
 img: deepak.jpg
 
 # Talk title
-title: To be determined
+title: Robots that learn to generalize beyond training
 
 # Date of the talk
 talkdate: 5 March 2021
