@@ -22,7 +22,7 @@ affil_link: https://mit.edu
 img: pulkit.jpg
 
 # Talk title
-title: To be determined
+title: Self-Supervised Robot Learning
 
 # Date of the talk
 talkdate: 12 March 2021
