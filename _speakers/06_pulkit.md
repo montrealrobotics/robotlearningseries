@@ -28,7 +28,7 @@ title: Self-Supervised Robot Learning
 talkdate: 12 March 2021
 
 # Time of the talk
-talktime: 1600 hrs EDT
+talktime: 1200 hrs EDT
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/MDCkBRh0D1U
