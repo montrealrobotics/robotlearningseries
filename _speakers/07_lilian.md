@@ -22,13 +22,13 @@ affil_link: https://openai.com/
 img: lilian.jpg
 
 # Talk title
-title: To be determined
+title: The power of diverse training environments for solving robotic manipulation tasks
 
 # Date of the talk
 talkdate: 19 March 2021
 
 # Time of the talk
-talktime: 1600 hrs EDT
+talktime: 1200 hrs EDT
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/VTSsFVtVXT4
