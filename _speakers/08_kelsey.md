@@ -28,7 +28,7 @@ title: To be determined
 talkdate: 26 March 2021
 
 # Time of the talk
-talktime: 1600 hrs EDT
+talktime: 1200 hrs EDT
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/y6vB17f6fTs
