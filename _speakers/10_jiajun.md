@@ -22,7 +22,7 @@ affil_link: https://www.stanford.edu/
 img: jiajun.jpg
 
 # Talk title
-title: To be determined
+title: Learning to see the physical world
 
 # Date of the talk
 talkdate: 16 April 2021

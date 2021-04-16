@@ -22,7 +22,7 @@ affil_link: https://deepmind.com/
 img: kelsey.png
 
 # Talk title
-title: To be determined
+title: The power of structured action and dynamics models
 
 # Date of the talk
 talkdate: 26 March 2021

@@ -22,7 +22,7 @@ affil_link: https://www.sfu.ca/
 img: manolis.jpg
 
 # Talk title
-title: To be determined
+title: 3D simulation for embodied AI - Three emerging directions
 
 # Date of the talk
 talkdate: 9 April 2021
