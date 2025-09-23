@@ -12,7 +12,7 @@ name: Oier Mees
 webpage: https://www.oiermees.com/
 
 # Primary affiliation of the speaker
-affil: Mycrosoft
+affil: Microsoft
 # Position at the primary affiliation
 position: Researcher
 # Link to the speaker's primary affiliation
