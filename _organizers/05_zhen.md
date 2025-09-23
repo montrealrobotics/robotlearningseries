@@ -2,10 +2,10 @@
 sequence_id: 4
 
 # Name of the organizer
-name: Zhen Liu
+name: Glen Berseth
 
 # Link to the organizer's webpage
-webpage: http://itszhen.com/
+webpage: https://neo-x.github.io/
 
 # Primary affiliation
 affil: Mila
@@ -13,7 +13,7 @@ affil: Mila
 affil_link: https://mila.quebec/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: zhen.jpg
+img: glen.png
 
 # Secondary affiliation
 affil2: Universite de Montreal

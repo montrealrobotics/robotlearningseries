@@ -1,19 +1,18 @@
 ---
-sequence_id: 0
+sequence_id: 2
 
 # Name of the organizer
-name: Krishna Murthy Jatavallabhula
+name: Daniel Lawson
 
 # Link to the organizer's webpage
-webpage: https://krrish94.github.io
-
+webpage: https://danielblawson.github.io/
 # Primary affiliation
 affil: Mila
 # Link to the primary affiliation
 affil_link: https://mila.quebec/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: krishna.jpg
+img: daniel.jpg
 
 # Secondary affiliation
 affil2: Universite de Montreal

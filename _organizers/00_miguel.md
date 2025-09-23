@@ -1,11 +1,11 @@
 ---
-sequence_id: 3
+sequence_id: 0
 
 # Name of the organizer
-name: Rey Reza Wiyatno
+name: Miguel Saavedra-Ruiz
 
 # Link to the organizer's webpage
-webpage: https://rrwiyatn.github.io/
+webpage: https://mikes96.github.io/
 
 # Primary affiliation
 affil: Mila
@@ -13,7 +13,7 @@ affil: Mila
 affil_link: https://mila.quebec/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: rey.jpg
+img: miguel.jpg
 
 # Secondary affiliation
 affil2: Universite de Montreal

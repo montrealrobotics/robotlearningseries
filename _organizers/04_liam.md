@@ -1,22 +1,22 @@
 ---
-sequence_id: 1
+sequence_id: 3
 
 # Name of the organizer
-name: Florian Golemo
+name: Liam Paull
 
 # Link to the organizer's webpage
-webpage: https://fgolemo.github.io
+webpage: http://liampaull.ca
 
 # Primary affiliation
-affil: Mila
+affil: Universite de Montreal
 # Link to the primary affiliation
-affil_link: https://mila.quebec/en
+affil_link: https://umontreal.ca/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: fgolemo.png
+img: liam.png
 
 # Secondary affiliation
-affil2: ElementAI
+affil2: Mila
 # Link to the secondary affiliation
-affil2_link: https://www.elementai.com/
+affil2_link: https://mila.quebec/en
 ---
