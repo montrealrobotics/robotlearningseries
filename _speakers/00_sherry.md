@@ -29,7 +29,7 @@ affil2_link: https://deepmind.google/
 img: sherry.jpeg
 
 # Talk title
-title: TBD
+title: Learning World Models and Physical Agents
 
 # Date of the talk
 talkdate: 2 October 2025
