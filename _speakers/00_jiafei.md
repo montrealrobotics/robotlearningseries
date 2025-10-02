@@ -3,42 +3,42 @@
 sequence_id: 0
 
 # Season (pages for the appropriate season will automagically pool all speakers that gave a talk in the season)
-season: fall2020
+season: fall2025
 
 # Name of the speaker
-name: Florian Shkurti
+name: Jiafei Duan
 
 # Link to the speaker's webpage
-webpage: http://www.cs.toronto.edu/~florian/
+webpage: https://duanjiafei.com/
 
 # Primary affiliation of the speaker
-affil: University of Toronto
+affil: University of Washington
 # Position at the primary affiliation
-position: Assistant professor
+position: PhD Student
 # Link to the speaker's primary affiliation
-affil_link: https://www.utoronto.ca/
+affil_link: https://www.cs.washington.edu/
 
-# # Secondary affiliation of the speaker
-# affil2: Vector Institute
-# # Position at the secondary affiliation
-# position2: Faculty associate
-# # Link to the speaker's secondary affiliation
-# affil2_link: http://vectorinstitute.ai/
+# Secondary affiliation of the speaker
+affil2: Allen Institute for AI (AI2)
+# Position at the secondary affiliation
+position2: Graduate Student Researcher
+# Link to the speaker's secondary affiliation
+affil2_link: https://allenai.org/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: florian.jpg
+img: jiafei.png
 
 # Talk title
-title: Robot Videography from Human Specifications
+title: Towards Robotics Foundation Models that can Reason
 
 # Date of the talk
-talkdate: 4 September 2020
+talkdate: 9 October 2025
 
 # Time of the talk
-talktime: 1600 hrs EDT
+talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink: https://www.youtube.com/embed/i0fPwnVe6zA
+talklink: https://www.youtube.com/embed/@MontrealRobotics
 ---
 
 <!-- Whatever you write below will be disregarded -->

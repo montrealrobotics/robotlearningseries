@@ -32,10 +32,10 @@ img: sherry.jpeg
 title: Learning World Models and Physical Agents
 
 # Date of the talk
-talkdate: 2 October 2025
+talkdate: 15 October 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 12:30 hrs EDT
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/@MontrealRobotics
