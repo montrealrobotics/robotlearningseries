@@ -29,7 +29,7 @@ affil2_link: https://amazon.jobs/content/en-gb/teams/ftr/amazon-robotics
 img: jiayuan.jpg
 
 # Talk title
-title: TBD
+title: Learning, Reasoning, and Planning with Neuro-Symbolic Concepts
 
 # Date of the talk
 talkdate: 16 October 2025
