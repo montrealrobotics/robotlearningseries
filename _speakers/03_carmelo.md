@@ -29,7 +29,7 @@ affil_link: https://www.utexas.edu/
 img: carmelo.jpg
 
 # Talk title
-title: TBD
+title: Humanoid Robot Learning
 
 # Date of the talk
 talkdate: 23 October 2025
@@ -39,5 +39,6 @@ talktime: 11:00 hrs EDT
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/-NhKxLYks_U?si=fXh_yIrqEFV2IYfb
+---
 
 <!-- Whatever you write below will be disregarded -->
