@@ -29,7 +29,7 @@ affil_link: https://uni-freiburg.de/
 img: abhinav.jpg
 
 # Talk title
-title: TBD
+title: Long-Horizon Mobile Manipulation in the Wild
 
 # Date of the talk
 talkdate: 6 November 2025
@@ -38,7 +38,7 @@ talkdate: 6 November 2025
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink: https://www.youtube.com/embed/@MontrealRobotics
+talklink: https://www.youtube.com/embed/iRCxmTDKvZo?si=xLFUw4N3zyXfUhpO
 ---
 
 <!-- Whatever you write below will be disregarded -->

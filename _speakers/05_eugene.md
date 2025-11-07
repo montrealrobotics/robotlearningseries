@@ -29,7 +29,7 @@ affil_link: https://engineering.nyu.edu/
 img: eugene.jpg
 
 # Talk title
-title: TBD
+title: Robust Autonomy Emerges from Self-Play
 
 # Date of the talk
 talkdate: 13 November 2025
