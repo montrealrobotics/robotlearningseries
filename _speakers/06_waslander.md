@@ -29,7 +29,7 @@ affil_link: https://www.utoronto.ca/
 img: steve.png
 
 # Talk title
-title: TBD
+title: Open World Navigation and Memory for Agentic Robots
 
 # Date of the talk
 talkdate: 20 November 2025
