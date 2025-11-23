@@ -29,7 +29,8 @@ affil_link: https://www.microsoft.com/en-us/research/lab/spatial-ai-zurich/
 img: oier.jpg
 
 # Talk title
-title: TBD
+title: Embodied Multimodal Intelligence with Foundation Models
+
 
 # Date of the talk
 talkdate: 27 November 2025
