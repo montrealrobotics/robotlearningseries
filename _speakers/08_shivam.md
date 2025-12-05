@@ -29,7 +29,7 @@ affil_link: https://www.brown.edu/
 img: shivam.jpeg
 
 # Talk title
-title: TBD
+title: Resource-Rational Robot Intelligence
 
 # Date of the talk
 talkdate: 4 December 2025

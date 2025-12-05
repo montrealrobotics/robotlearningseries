@@ -29,7 +29,7 @@ affil_link: https://www.unizar.es/
 img: javier.jpeg
 
 # Talk title
-title: TBD
+title: Visual Localization and Mapping as the 3D Geometric Grounding of Foundation Model Representations
 
 # Date of the talk
 talkdate: 11 December 2025
