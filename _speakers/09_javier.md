@@ -38,7 +38,7 @@ talkdate: 11 December 2025
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink: https://www.youtube.com/embed/@MontrealRobotics
+talklink: https://www.youtube.com/embed/5N1WTGHf3UA?si=QGJXlAqcl620VulC
 ---
 
 <!-- Whatever you write below will be disregarded -->
