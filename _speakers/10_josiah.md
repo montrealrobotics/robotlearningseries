@@ -29,7 +29,7 @@ affil_link: https://www.wisc.edu/
 img: josiah.jpeg
 
 # Talk title
-title: TBD
+title: Safe and Deployable Reinforcement Learning for Reason and Action
 
 # Date of the talk
 talkdate: 18 December 2025
@@ -38,7 +38,7 @@ talkdate: 18 December 2025
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink: https://www.youtube.com/embed/@MontrealRobotics
+talklink: https://www.youtube.com/embed/LFlrQCIzpQU?si=37nptBhDrwcVEDyA
 ---
 
 <!-- Whatever you write below will be disregarded -->
