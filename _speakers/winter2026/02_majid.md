@@ -19,11 +19,11 @@ position: Assistant Professor
 affil_link: https://www.tum.de/en/
 
 # Secondary affiliation of the speaker
-affil2: MIRMI
+affil2: 
 # Position at the secondary affiliation
 position2:
 # Link to the speaker's secondary affiliation
-affil2_link: https://www.mirmi.tum.de/mirmi/startseite/
+affil2_link: 
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: majid.jpg
