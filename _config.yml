@@ -21,7 +21,7 @@
 title: Robot learning seminar series
 # email: emailaddress@provider.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Montreal Robotics and Embodied AI Lab (REAL) and Mila are excited to announce the fourth
+  The Montreal Robotics and Embodied AI Lab (REAL) and Mila are excited to announce the fifth
   edition of the robot learning seminar series. As always, we have an exciting lineup of speakers
   spanning a wide variety of robot learning research.
 baseurl: "/robotlearningseries" # the subpath of your site, e.g. /blog
