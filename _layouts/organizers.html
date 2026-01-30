@@ -31,6 +31,10 @@ layout: default
 		            	{% else %}
 		            		{{ organizer.name }}
 		            	{% endif %}
+		                {% if organizer.email %}
+		                	<br>
+		                	<a href="mailto:{{ organizer.email }}">{{ organizer.email }}</a>
+		                {% endif %}
 		                <br>
 		                <!-- organizer affiliation (if provided) -->
 		                {% if organizer.affil_link %}

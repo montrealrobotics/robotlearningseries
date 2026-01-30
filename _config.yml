@@ -43,10 +43,12 @@ header_pages:
 # - callforpapers.md
 # - schedule.md
 # - papers.md
+- winter2026.md
+- fall2025.md
 - winter2021.md
 - fall2020.md
 - summer2020.md
-- contactus.md
+# - contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg

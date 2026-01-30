@@ -10,6 +10,7 @@ webpage: https://danielblawson.github.io/
 affil: Mila
 # Link to the primary affiliation
 affil_link: https://mila.quebec/en
+email: daniel.lawson@mila.quebec
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: daniel.jpg
