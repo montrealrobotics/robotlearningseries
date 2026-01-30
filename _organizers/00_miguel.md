@@ -19,4 +19,6 @@ img: miguel.jpg
 affil2: Universite de Montreal
 # Link to the secondary affiliation
 affil2_link: https://umontreal.ca/en
+
+email: miguel-angel.saavedra-ruiz@mila.quebec
 ---
