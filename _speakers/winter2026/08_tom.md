@@ -29,7 +29,7 @@ affil2_link:
 img: tom.jpg
 
 # Talk title
-title: TBD
+title: ""
 
 # Date of the talk
 talkdate: 9 April 2026

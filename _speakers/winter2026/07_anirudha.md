@@ -29,7 +29,7 @@ affil2_link: https://deepmind.google/
 img: anirudha.jpg
 
 # Talk title
-title: TBD
+title: ""
 
 # Date of the talk
 talkdate: 12 March 2026

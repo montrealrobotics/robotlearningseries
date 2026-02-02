@@ -29,7 +29,7 @@ affil2_link:
 img: makram.jpg
 
 # Talk title
-title: TBD
+title: ""
 
 # Date of the talk
 talkdate: 19 February 2026

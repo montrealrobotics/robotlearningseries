@@ -29,7 +29,7 @@ affil2_link:
 img: angelica.png
 
 # Talk title
-title: TBD
+title: ""
 
 # Date of the talk
 talkdate: 23 April 2026

@@ -29,7 +29,7 @@ affil2_link:
 img: coline.jpg
 
 # Talk title
-title: TBD
+title: ""
 
 # Date of the talk
 talkdate: 16 April 2026
