@@ -29,7 +29,7 @@ affil2_link:
 img: yunzhu.jpg
 
 # Talk title
-title: TBD
+title: Scaling Robotic Manipulation via Structured World Models and Tactile Sensing
 
 # Date of the talk
 talkdate: 5 February 2026
