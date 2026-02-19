@@ -38,7 +38,7 @@ talkdate: 29 January 2026
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink:
+talklink: https://www.youtube.com/embed/nOAN5hFHn6c?si=bFwGnVG48wmRXqdv
 
 ---
 
