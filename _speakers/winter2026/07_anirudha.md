@@ -29,7 +29,7 @@ affil2_link: https://deepmind.google/
 img: anirudha.jpg
 
 # Talk title
-title: ""
+title: "Trustworthy World Models for Safe Generalist Robots"
 
 # Date of the talk
 talkdate: 12 March 2026
@@ -38,7 +38,7 @@ talkdate: 12 March 2026
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink:
+talklink: https://www.youtube.com/embed/wbowx_l_Gk4
 ---
 
 <!-- Whatever you write below will be disregarded -->

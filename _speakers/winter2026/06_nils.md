@@ -29,7 +29,7 @@ affil2_link:
 img: nils.jpg
 
 # Talk title
-title: ""
+title: "Learning Perception and Manipulation of Objects in Cluttered Environments"
 
 # Date of the talk
 talkdate: 5 March 2026

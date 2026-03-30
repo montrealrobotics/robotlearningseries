@@ -1,6 +1,6 @@
 ---
 # Sequence ID (lowest number (0) appears first on the page)
-sequence_id: 9
+sequence_id: 10
 
 # Season (pages for the appropriate season will automagically pool all speakers that gave a talk in the season)
 season: winter2026
