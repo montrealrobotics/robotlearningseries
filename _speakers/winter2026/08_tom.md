@@ -29,7 +29,7 @@ affil2_link:
 img: tom.jpg
 
 # Talk title
-title: ""
+title: "Towards Robots that Learn In-The-Wild by Engineering Their Own Software"
 
 # Date of the talk
 talkdate: 9 April 2026
