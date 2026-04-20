@@ -38,7 +38,7 @@ talkdate: 5 March 2026
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink:
+talklink: https://www.youtube.com/embed/KGyvgPhf8SM?si=sf8ozvO3tDiuUwK-
 ---
 
 <!-- Whatever you write below will be disregarded -->

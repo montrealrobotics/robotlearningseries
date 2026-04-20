@@ -29,7 +29,7 @@ affil2_link:
 img: coline.jpg
 
 # Talk title
-title: ""
+title: "Scaling Foundation Models for Robot Manipulation"
 
 # Date of the talk
 talkdate: 16 April 2026
