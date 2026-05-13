@@ -29,7 +29,7 @@ affil2_link:
 img: angelica.png
 
 # Talk title
-title: ""
+title: "Multimodal and Socially Interactive Embodied AI"
 
 # Date of the talk
 talkdate: 23 April 2026
@@ -38,7 +38,7 @@ talkdate: 23 April 2026
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink:
+talklink: https://www.youtube.com/embed/-i6OYhxvRYw?si=eWrkk9uqGhCpjTBh
 ---
 
 <!-- Whatever you write below will be disregarded -->

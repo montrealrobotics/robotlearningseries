@@ -29,7 +29,7 @@ affil2_link:
 img: steven.jpg
 
 # Talk title
-title: ""
+title: "Robot Navigation for Inspection and Intervention"
 
 # Date of the talk
 talkdate: 30 April 2026
@@ -38,7 +38,7 @@ talkdate: 30 April 2026
 talktime: 11:00 hrs EDT
 
 # Link to the talk
-talklink:
+talklink: https://www.youtube.com/embed/vtALJJ8AhRc?si=0N0pYj1_bJXk6UXO
 ---
 
 <!-- Whatever you write below will be disregarded -->
