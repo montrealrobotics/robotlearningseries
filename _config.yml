@@ -23,9 +23,9 @@ tagline: Talks @ REAL + Mila
 contact_email: robot-learning-seminar@mila.quebec # shown on the organizers page
 # email: emailaddress@provider.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Montreal Robotics and Embodied AI Lab (REAL) and Mila are excited to announce the fifth
-  edition of the robot learning seminar series. As always, we have an exciting lineup of speakers
-  spanning a wide variety of robot learning research.
+  A virtual seminar series on robot learning research, hosted by the Robotics and Embodied AI Lab
+  (REAL) and Mila in Montréal. Talks are streamed live and recorded on YouTube.
+timezone: America/Toronto # talk times are Eastern; also used for event start times
 baseurl: "/robotlearningseries" # the subpath of your site, e.g. /blog
 url: "https://montrealrobotics.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
@@ -53,6 +53,7 @@ header_pages:
 # - callforpapers.md
 # - schedule.md
 # - papers.md
+- fall2026.md
 - winter2026.md
 - fall2025.md
 - winter2021.md
@@ -76,14 +77,12 @@ last_updated: true
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"
 collections:
-  seasons:
-    output: true
   speakers:
     sort_by: sequence_id
     output: false
   organizers:
     sort_by: sequence_id
-    output: true
+    output: false
   # schedule:
   #   sort_by: sequence_id
   #   output: false
@@ -93,8 +92,8 @@ collections:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
+# Note: on Jekyll 3 (which GitHub Pages uses), an `exclude:` list replaces this
+# default list instead of adding to it, so the defaults are repeated below.
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
@@ -110,6 +109,13 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE.txt
 
 # Google analytics id. Add your tracking id to get visitor stats.
 google_analytics: UA-130243767-1
