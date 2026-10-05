@@ -1,0 +1,14 @@
+{%- comment -%}
+  Shared contact address, written into the page in two halves so that address
+  harvesters (which mostly scan the raw HTML for "name@domain") don't pick it up.
+  The script right after the link joins the halves into a normal mailto: link;
+  without JavaScript, readers see "name [at] domain".
+{%- endcomment -%}
+{%- assign email_parts = site.contact_email | split: "@" -%}
+<a data-user="{{ email_parts[0] }}" data-domain="{{ email_parts[1] }}">{{ email_parts[0] }} [at] {{ email_parts[1] }}</a><script>
+  (function (link) {
+    var address = link.dataset.user + "@" + link.dataset.domain;
+    link.href = "mailto:" + address;
+    link.textContent = address;
+  })(document.currentScript.previousElementSibling);
+</script>

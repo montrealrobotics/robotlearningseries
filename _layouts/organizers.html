@@ -16,9 +16,7 @@ layout: default
 		            <div class="col-xs-12">
 		                <p align="center">
 		                	{% if organizer.img %}
-		                    	<img class="people-pic" src="{{ organizer.img | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    	<img class="people-pic" src="{{ organizer.img | prepend: '/assets/img/organizers/' | relative_url }}" alt="{{ organizer.name }}" loading="lazy">
 		                    {% endif %}
 		                </p>
 		            </div>
@@ -31,10 +29,7 @@ layout: default
 		            	{% else %}
 		            		{{ organizer.name }}
 		            	{% endif %}
-		                {% if organizer.email %}
-		                	<br>
-		                	<a href="mailto:{{ organizer.email }}">{{ organizer.email }}</a>
-		                {% endif %}
+		                {% comment %} Affiliations hidden: every organizer is at Mila + UdeM, so the page shows both logos once instead.
 		                <br>
 		                <!-- organizer affiliation (if provided) -->
 		                {% if organizer.affil_link %}
@@ -50,11 +45,13 @@ layout: default
 		                	<br>
 		                	{{ organizer.affil2 }}
 		                {% endif %}
+		                {% endcomment %}
 		            </div>
 		        </td>
 		    </tr>
 	    {% endfor %}
 	  </table>
+	  {{ content }}
   </div>
 
 </article>

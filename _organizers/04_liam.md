@@ -13,7 +13,7 @@ affil: Universite de Montreal
 affil_link: https://umontreal.ca/en
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: liam.png
+img: liam_paull.png
 
 # Secondary affiliation
 affil2: Mila
