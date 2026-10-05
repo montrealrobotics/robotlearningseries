@@ -39,6 +39,10 @@ talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/5N1WTGHf3UA?si=QGJXlAqcl620VulC
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Localization and mapping are fundamental capabilities for enabling autonomy in robotics. While both have been active research areas for several decades, the current convergence of mature geometric methods with emerging deep learning models has the potential to hugely expand their scale and representational power. In this talk, I will present recent works, primarily from my group, that address tasks within localization and mapping as the 3D grounding of representation embeddings, either directly using foundation models or fine-tuning them for the task. Specifically, I will discuss 1) visual place recognition, where we achieve substantial gains by leveraging DINOv2 and 3D-aware mining, 2) open-vocabulary mapping, where we register single-image vision-language foundation model representations to produce semantic maps, 3) multi-view stereo, where we show strong zero-shot generalization with contributions in both model architecture and training, and 4) single-view intrinsics, where we propose a unified approach for calibrating "any" camera in the wild.
 ---
 
 <!-- Whatever you write below will be disregarded -->

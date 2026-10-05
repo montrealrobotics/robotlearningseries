@@ -16,7 +16,7 @@ affil: University of Pennsylvania
 # Position at the secondary affiliation
 position: Assistant Professor
 # Link to the speaker's secondary affiliation
-affil_link: University of Pennsylvania
+affil_link: https://www.upenn.edu/
 
 # Primary affiliation of the speaker
 affil2: Amazon Frontier AI & Robotics

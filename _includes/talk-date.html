@@ -1,0 +1,22 @@
+{%- comment -%}
+  A talk's date and time, built from the speaker's `talkdate` (e.g. "8 October 2026")
+  and `talktime` (e.g. "11:00 hrs ET" or "1600 hrs ET"; may be blank), in the site
+  timezone. Usage:
+    {% include talk-date.html speaker=speaker %}               -> Thu, Oct 8, 2026<br>11:00 AM ET
+    {% include talk-date.html speaker=speaker separator=" · " %} -> Thu, Oct 8, 2026 · 11:00 AM ET
+    {% include talk-date.html speaker=speaker format="iso" %}  -> 2026-10-08T11:00:00-04:00
+{%- endcomment -%}
+{%- assign talk_time = include.speaker.talktime | remove: "hrs" | remove: "ET" | strip -%}
+{%- unless talk_time contains ":" -%}
+  {%- if talk_time.size == 4 -%}
+    {%- assign talk_minutes = talk_time | slice: 2, 2 -%}
+    {%- assign talk_time = talk_time | slice: 0, 2 | append: ":" | append: talk_minutes -%}
+  {%- endif -%}
+{%- endunless -%}
+{%- assign talk_when = include.speaker.talkdate -%}
+{%- if talk_time != "" -%}{%- assign talk_when = talk_when | append: " " | append: talk_time -%}{%- endif -%}
+{%- if include.format == "iso" -%}
+  {%- if talk_time != "" -%}{{ talk_when | date: "%Y-%m-%dT%H:%M:%S%:z" }}{%- else -%}{{ talk_when | date: "%Y-%m-%d" }}{%- endif -%}
+{%- else -%}
+  {{ talk_when | date: "%a, %b %-d, %Y" }}{%- if talk_time != "" -%}{{ include.separator | default: "<br>" }}{{ talk_when | date: "%-I:%M %p" }} ET{%- endif -%}
+{%- endif -%}

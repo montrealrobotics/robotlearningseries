@@ -94,8 +94,7 @@
     summary {
       color: $text-color;
       cursor: pointer;
-      display: inline-flex;
-      align-items: center;
+      display: block; // inline-flex picked up the nav's 54px line height (extra gap)
       list-style: none;
       padding: 5px 10px;
     }
@@ -104,28 +103,39 @@
       display: none;
     }
 
-    .dropdown-menu {
+    .seasons-menu {
       display: none;
       margin: 0;
       padding: 0;
     }
 
-    &[open] .dropdown-menu {
+    &[open] .seasons-menu {
       display: block;
     }
 
+    // In the mobile menu, show the seasons as a smaller, indented sub-list.
     .dropdown-link {
       margin-left: 0;
+      padding-right: 24px;
+      font-size: 0.9em;
+      color: $brand-color-dark;
     }
 
+    // Chevron drawn from two borders (same approach as the talk abstracts):
+    // points down when closed, up when open.
     .dropdown-caret {
       display: inline-block;
-      font-size: 0.8em;
-      margin-left: 6px;
+      width: 0.5em;
+      height: 0.5em;
+      margin-left: 4px;
+      border-right: 2px solid currentColor;
+      border-bottom: 2px solid currentColor;
+      transform: translateY(-0.15em) rotate(45deg);
+      transition: transform 0.15s ease;
     }
 
     &[open] .dropdown-caret {
-      transform: none;
+      transform: translateY(0.15em) rotate(-135deg);
     }
   }
 
@@ -159,14 +169,14 @@
 
     .nav-dropdown {
       display: inline-block;
-      margin-left: 20px;
+      margin-left: 0; // the link before it already has a 20px right margin
 
       summary {
         display: inline;
         padding: 0;
       }
 
-      .dropdown-menu {
+      .seasons-menu {
         background-color: $background-color;
         border: 1px solid $border-color-01;
         border-radius: 5px;
@@ -177,11 +187,15 @@
         right: 0;
         top: calc(100% + 6px);
         z-index: 10;
+        text-align: left;
+        white-space: nowrap;
       }
 
       .dropdown-link {
         display: block;
         padding: 6px 12px;
+        font-size: inherit;
+        color: $text-color;
       }
     }
   }
@@ -367,19 +381,25 @@
 
 
 .social-media-list {
-  display: table;
-  margin: 0 auto;
+  margin: 0 0 $spacing-unit / 2;
   li {
-    float: left;
-    margin: 5px 10px 5px 0;
-    &:last-of-type { margin-right: 0 }
-    a {
-      display: block;
-      padding: $spacing-unit / 4;
-      border: 1px solid $border-color-01;
-      &:hover { border-color: $border-color-02 }
-    }
+    margin-bottom: 6px;
   }
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+}
+
+.social-icon {
+  width: 18px;
+  height: 18px;
+  flex: none;
+  fill: currentColor;
+
+  &--youtube { fill: #ff0000; }
+  &--twitter { fill: #1d9bf0; }
 }
 
 

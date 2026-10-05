@@ -5,6 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+        {%- include social.html -%}
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -17,16 +18,15 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        {%- capture youtube_link -%}
+          <a href="https://www.youtube.com/channel/{{ site.minima.social_links.youtube_channel }}" target="_blank" rel="noopener">YouTube</a>
+        {%- endcapture %}
+        <p>{{ site.description | escape | replace: "YouTube", youtube_link }}</p>
         <p>{{ site.attribution }}</p>
         {% if site.last_updated %}
         Last updated: {{ "now" | date: '%B %d, %Y' }}.
         {% endif %}
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
     </div>
 
   </div>

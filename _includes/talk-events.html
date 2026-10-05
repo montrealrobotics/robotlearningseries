@@ -1,0 +1,80 @@
+{%- comment -%}
+  schema.org Event markup (JSON-LD) for every talk in the page's season, so search
+  engines can read the talk, speaker, start time and recording. The start time is
+  built from `talkdate` + `talktime` by talk-date.html, in the site timezone (set in
+  _config.yml), so EST/EDT offsets come out right automatically.
+{%- endcomment -%}
+{%- assign now_ts = site.time | date: "%s" | plus: 0 -%}
+{%- assign emitted = false -%}
+{%- capture events -%}
+  {%- for speaker in site.speakers -%}
+    {%- if speaker.season != page.season or speaker.talkdate == nil -%}{%- continue -%}{%- endif -%}
+    {%- if emitted -%},{%- endif -%}
+    {%- assign emitted = true -%}
+
+    {%- capture start -%}{% include talk-date.html speaker=speaker format="iso" %}{%- endcapture -%}
+    {%- assign start_ts = start | date: "%s" | plus: 0 -%}
+
+    {%- assign video_url = nil -%}
+    {%- if speaker.talklink -%}
+      {%- assign embed_url = speaker.talklink | split: "?" | first -%}
+      {%- assign video_id = embed_url | split: "/embed/" | last -%}
+      {%- assign video_url = "https://www.youtube.com/watch?v=" | append: video_id -%}
+    {%- endif -%}
+
+    {%- if speaker.img -%}
+      {%- assign image = speaker.img | prepend: "/assets/img/speakers/" | absolute_url -%}
+    {%- else -%}
+      {%- assign image = site.defaults[0].values.image.path | absolute_url -%}
+    {%- endif -%}
+
+    {
+      "@type": "Event",
+      "name": {{ speaker.title | strip | jsonify }},
+      "startDate": {{ start | jsonify }},
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": {{ video_url | default: "https://www.youtube.com/@MontrealRobotics" | jsonify }}
+      },
+      "image": [{{ image | jsonify }}],
+      {%- if speaker.abstract %}
+      "description": {{ speaker.abstract | normalize_whitespace | truncate: 600 | jsonify }},
+      {%- endif %}
+      "performer": {
+        "@type": "Person",
+        "name": {{ speaker.name | jsonify }}
+        {%- if speaker.webpage -%}, "url": {{ speaker.webpage | jsonify }}{%- endif -%}
+        {%- if speaker.affil -%}, "affiliation": { "@type": "Organization", "name": {{ speaker.affil | jsonify }} }{%- endif %}
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": {{ site.title | jsonify }},
+        "url": {{ "/" | absolute_url | jsonify }}
+      },
+      "isAccessibleForFree": true,
+      "inLanguage": "en",
+      "url": {{ page.url | absolute_url | jsonify }}
+      {%- if video_url and start_ts < now_ts -%},
+      "recordedIn": {
+        "@type": "VideoObject",
+        "name": {{ speaker.title | strip | append: " — " | append: speaker.name | jsonify }},
+        {%- if speaker.abstract %}
+        "description": {{ speaker.abstract | normalize_whitespace | truncate: 600 | jsonify }},
+        {%- endif %}
+        "embedUrl": {{ embed_url | jsonify }},
+        "contentUrl": {{ video_url | jsonify }},
+        "thumbnailUrl": {{ "https://i.ytimg.com/vi/" | append: video_id | append: "/hqdefault.jpg" | jsonify }},
+        "uploadDate": {{ start | jsonify }}
+      }
+      {%- endif %}
+    }
+  {%- endfor -%}
+{%- endcapture -%}
+{%- assign events = events | strip -%}
+{%- if events != "" -%}
+<script type="application/ld+json">
+{ "@context": "https://schema.org", "@graph": [{{ events }}] }
+</script>
+{%- endif -%}

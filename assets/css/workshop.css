@@ -18,8 +18,11 @@ div.speaker p.speaker-bio {
 }
 
 .people-pic {
-  max-width: 100px;
-  max-height: 100px;
+  width: 100px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   border-radius: 50%;
   padding: 0;
 }
@@ -39,8 +42,7 @@ div.speaker p.speaker-bio {
         max-height: 100px;
     }
     .people-pic {
-        max-width: 65px;
-        max-height: 65px;
+        width: 65px;
     }
     .people-name {
         font-size: 13px;
