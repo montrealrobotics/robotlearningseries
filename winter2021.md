@@ -2,6 +2,7 @@
 season: winter2021
 layout: seasons
 title: Winter 2021
+description: Schedule, talks, and recordings from the Winter 2021 edition of the Mila Robot Learning Seminar.
 permalink: /winter2021/
 ---
 
