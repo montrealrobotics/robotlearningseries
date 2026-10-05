@@ -35,10 +35,14 @@ title: Humanoid Robot Learning
 talkdate: 23 October 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/-NhKxLYks_U?si=fXh_yIrqEFV2IYfb
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Humanoid robots represent the ideal physical embodiment to assist us in the diversity of our daily tasks and human-centric environments. Driven by substantial hardware advancements, progress in artificial intelligence (AI), and a growing demand for adaptable automation, this vision appears increasingly feasible. Yet, humanoid intelligence remains far from achieving the envisioned general-purpose capabilities. In this talk, I will discuss the unique challenges humanoids pose in the robot learning setting and present approaches to scale learning through novel tools (HumanoidBench, MuJoCo Playground), flexible algorithms (OmniRetarget, FastTD3), and expressive architectures (Body Transformer).
 ---
 
 <!-- Whatever you write below will be disregarded -->

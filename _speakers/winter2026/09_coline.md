@@ -35,7 +35,7 @@ title: "Scaling Foundation Models for Robot Manipulation"
 talkdate: 16 April 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: 

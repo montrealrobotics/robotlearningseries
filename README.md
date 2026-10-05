@@ -53,6 +53,15 @@ If you experience issues or have cool features to add, feel free to [fork this t
 
 To add a speaker, simply create a copy of an existing file in the relevant season folder (e.g. `_speakers/winter2026/janedoe.md`), rename it, and edit the attributes of the speaker. Please read the comments in the markdown file; they describe the function of each attribute.
 
+Optionally, add the talk abstract. It shows as a collapsible "Abstract" under the title; entries without one are unchanged:
+
+```yaml
+abstract: |-
+  First paragraph of the abstract.
+
+  Second paragraph.
+```
+
 
 ### Adding an organizer
 

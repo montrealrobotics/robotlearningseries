@@ -35,10 +35,14 @@ title: Towards Robotics Foundation Models that can Reason
 talkdate: 9 October 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/-N3lCJxxJyI?si=nVwUC2kcD1kYWQL4
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  In recent years, we have witnessed remarkable progress in generative AI, particularly in language and visual understanding and generation. This leap has been fueled by unprecedentedly large image–text datasets and the scaling of large language and vision models trained on them. Increasingly, these advances are being leveraged to equip and empower robots with open-world visual understanding and reasoning capabilities. Yet, despite these advances, scaling such models for robotics remains challenging due to the scarcity of large-scale, high-quality robot interaction data, limiting their ability to generalize and truly reason about actions in the real world. Nonetheless, promising results are emerging from using multimodal large language models (MLLMs) as the backbone of robotic systems, especially in enabling the acquisition of low-level skills required for robust deployment in everyday household settings. In this talk, I will present three recent works that aim to bridge the gap between rich semantic world knowledge in MLLMs and actionable robot control. I will begin with AHA, a vision-language model that reasons about failures in robotic manipulation and improves the robustness of existing systems. Building on this, I will introduce SAM2Act, a 3D generalist robotic model with a memory-centric architecture capable of performing high-precision manipulation tasks while retaining and reasoning over past observations. Finally, I will present MolmoAct, AI2’s flagship robotic foundation model for spatial reasoning, designed as a generalist system that can be post-trained for a wide range of downstream manipulation tasks.
 ---
 
 <!-- Whatever you write below will be disregarded -->

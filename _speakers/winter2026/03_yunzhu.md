@@ -35,10 +35,14 @@ title: Scaling Robotic Manipulation via Structured World Models and Tactile Sens
 talkdate: 5 February 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/ZwKV2IEt1nk?si=wl1m60CP0jTvT8hB
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Scaling robotic manipulation demands both predictive models of how the world evolves under action and rich sensing of physical contact. In this talk, I will present two complementary research directions that address these challenges. First, inspired by human intuitive physics, I introduce structured world models that incorporate physical priors through particle- and graph-based neural dynamics. These models enable model-based planning and control across a wide range of rigid, deformable, articulated, and granular objects, and support long-horizon, contact-rich manipulation. They also facilitate the construction of neural and physics-informed digital twins for scalable data generation, policy iteration, and evaluation. Second, I will present our work on scalable tactile sensing, from uncovering principles of human grasping with dense tactile gloves to developing flexible, low-cost tactile arrays and portable visuo-tactile grippers. Combined with simulation and large-scale real-world data collection, these tactile systems enable robust learning and improved sim-to-real transfer for tasks involving visual occlusion, fragile objects, and complex physical interactions. Together, these efforts highlight key ingredients for scaling robotic manipulation toward greater generality, robustness, and physical competence, laying the groundwork for physically grounded foundational robotic models.
 ---
 
 <!-- Whatever you write below will be disregarded -->

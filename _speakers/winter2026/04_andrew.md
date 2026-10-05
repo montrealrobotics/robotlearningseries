@@ -35,10 +35,14 @@ title: What Does RL Theory Have to Do with Robotics?
 talkdate: 12 February 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/jRKC8ddbWMk?si=MdQ3wniqBHQ9YLqd
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  While the theory of reinforcement learning has advanced to a fairly mature place, it is often not apparent how this theory can impact practice. This is especially true in domains such as robotics, where the challenges faced by practitioners typically feel far removed from the settings and algorithms considered by theorists. In this talk, I will discuss how RL theory can impact practice in robotics despite this apparent gap. I will focus in particular on two case studies centered around the question of pretraining for online adaptation. In the first case, I will explore the question of sim-to-real transfer for robotics, and how we should pretrain with RL in a simulator to enable effective transfer to the real world. In the second case, I will discuss how we can pretrain a policy from human demonstration data to ensure it is a good initialization for further RL finetuning. In both cases, I will show how theory provides the key algorithmic insights that lead to highly effective practical approaches that enable real-world robot learning.
 ---
 
 <!-- Whatever you write below will be disregarded -->

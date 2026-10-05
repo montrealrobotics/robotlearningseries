@@ -72,6 +72,12 @@ layout: default
 		        <td style="border: none; width:30%">
 		        	<div class="people-name text-center">
 		        		<b> {{ speaker.title }} </b>
+		        		{% if speaker.abstract and speaker.abstract != "" %}
+		        			<details style="text-align: left; margin-top: 0.5em;">
+		        				<summary style="cursor: pointer;">Abstract</summary>
+		        				<p style="font-size: 0.9em;">{{ speaker.abstract | escape | newline_to_br }}</p>
+		        			</details>
+		        		{% endif %}
 		        	</div>
 		        </td>
 		        <td style="border: none; width:15%;">

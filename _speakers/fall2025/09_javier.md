@@ -35,7 +35,7 @@ title: Visual Localization and Mapping as the 3D Geometric Grounding of Foundati
 talkdate: 11 December 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/5N1WTGHf3UA?si=QGJXlAqcl620VulC

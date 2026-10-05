@@ -35,10 +35,14 @@ title: Open World Navigation and Memory for Agentic Robots
 talkdate: 20 November 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/Xo4kjvbyF4w?si=Jfo0Qpb1578f68Mf
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Agentic reasoning for robots is rapidly becoming a reality, allowing flexible natural language interaction with human operators and enabling a wide range of navigation, object handling and recall tasks in a variety of settings. In this talk, Prof. Waslander will discuss the ongoing efforts in his lab to make useful agentic robots for the warehouse and outdoor setting, by integrating open world perception with agentic reasoning for reliable open world navigation, and by adding multi-faceted memory - spatial, descriptive and visual - to enable experience recall for temporal question answering. Together, these advances allow a wide variety of spatial, semantic, functional and temporal tasks.
 ---
 
 <!-- Whatever you write below will be disregarded -->

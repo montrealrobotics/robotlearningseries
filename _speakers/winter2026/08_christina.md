@@ -35,10 +35,14 @@ title: "A Unified Approach to Semantic and Geometric Mapping"
 talkdate: 2 April 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/O6nTNgyIpAY?si=bO9hstVJm8DgCyYv
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Visual SLAM has long provided the geometric backbone for autonomous systems, yet traditional systems lack the semantic richness needed for robots to interact meaningfully with their surroundings. This talk explores how vision-language models can bridge this gap, addressing two central questions: how beneficial are such models for SLAM tasks, and how much can a single pre-trained model accomplish across multiple scene understanding tasks? I will present LEXIS, a real-time semantic SLAM system that uses CLIP for open-vocabulary room classification, place recognition, and loop closure within a unified framework. I will then examine the challenges of open-vocabulary 3D object segmentation, and introduce OpenLex3D, a tiered benchmark that evaluates these systems beyond closed-vocabulary metrics. Finally, I will present ongoing work on LEXI-SG which combines semantic capabilities with feed-forward reconstruction models to build open-vocabulary scene graphs from monocular video.
 ---
 
 <!-- Whatever you write below will be disregarded -->

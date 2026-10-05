@@ -28,10 +28,14 @@ title: Self-Supervised Robot Learning
 talkdate: 12 March 2021
 
 # Time of the talk
-talktime: 1200 hrs EDT
+talktime: 1200 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/MDCkBRh0D1U
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  A grand goal of robot learning is to build systems that can perform "common-sense" tasks. Achieving this requires circumventing many roadblocks: reward definition and measurement,  data inefficiency, dexterity, and long-term planning to name a few. We believe that by analyzing these challenges at all levels of the stack: hardware, control, and perception, we can simplify the problem and find solutions that are not obvious by looking at only a single level. At the center of our approach is the learning methodology of robots conducting experiments to collect data, which is then synthesized into models of how the world works. These models in turn inform what the robot explores next. The iterative cycle of exploration and model-building is further guided by social learning and forms a never-ending learning loop. Through several case studies spanning manipulation, locomotion, and navigation, I will expand on our attempts to overcome the central challenges in robot learning.
 ---
 
 <!-- Whatever you write below will be disregarded -->

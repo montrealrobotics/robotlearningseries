@@ -28,10 +28,14 @@ title: Robot learning in the wild
 talkdate: 23 October 2020
 
 # Time of the talk
-talktime: 1500 hrs EDT
+talktime: 1500 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/rPrqCPJc6wU
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  While robotics has made tremendous progress over the last few decades, most success stories are still limited to carefully engineered and precisely modeled environments. Interestingly, one of the most significant successes in the last decade of AI has been the use of Machine Learning (ML) to generalize and robustly handle diverse situations. So why don't we just apply current learning algorithms to robots? The biggest reason is a complicated relationship between data and robotics. In other fields of AI such as computer vision, we were able to collect diverse real-world, large-scale data with lots of supervision. These three key ingredients which fueled the success of deep learning in other fields are the key bottlenecks in robotics. We do not have millions of training examples in robots; it is unclear how to supervise robots and most importantly, simulation/lab data is not real-world and diverse. My research has focused on rethinking the relationship between data and robotics to fuel the success of robot learning. Specifically, in this talk, I will discuss three aspects of data that will bring us closer to generalizable robotics: (a) size of data we can collect, (b) amount of supervisory signal we can extract, and (c) diversity of data we can get from robots.
 ---
 
 <!-- Whatever you write below will be disregarded -->

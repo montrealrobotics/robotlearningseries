@@ -35,10 +35,14 @@ title: Learning World Models and Physical Agents
 talkdate: 15 October 2025
 
 # Time of the talk
-talktime: 12:30 hrs EDT
+talktime: 12:30 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/50y0-1krEIM?si=iKdaNHFTKk-vtzr8
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Given a low-cost environment with accurate dynamics and reward, we have trained agents that can achieve superhuman performance (e.g., AlphaGo, LLM for ICPC). However, robot interactions with the physical world incurs high cost, making learning physical agents difficult. In this talk, we will discuss how to learn a world model from large-scale real-robot interaction data. We then discuss how the world model can be used to evaluate real-robot policies efficiently and effectively, including testing out-of-distribution settings with novel objects and distractors. Lastly, we will discuss how to use the world model to perform reinforcement learning and planning to further improve robot policies as physical agents.
 ---
 
 <!-- Whatever you write below will be disregarded -->

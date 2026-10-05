@@ -28,10 +28,14 @@ title: The power of structured action and dynamics models
 talkdate: 26 March 2021
 
 # Time of the talk
-talktime: 1200 hrs EDT
+talktime: 1200 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/y6vB17f6fTs
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  The world is structured in countless ways. When cognitive and machine models respect these structures, by factorizing their modules and parameters, they can achieve remarkable accuracy and generalization. In this talk, I will discuss our work investigating the factorizations of objects, relations, and modes in both humans and machines. Focusing on problems in physical problem-solving including construction and tool use, I will show how to harness object and relational structure in the form of graph networks and probabilistic programs to improve machine generalization, and how to harness dynamic modes represented as constraints to enable a robot to plan with tools. To go from harnessing structure to discovering it, I will then talk about some initial steps examining how to learn constraints and dynamic modes from relatively little experience. By taking better advantage of problem structure, and combining it with general-purpose methods for statistical learning, we can develop more robust and data-efficient machine agents, and better explain how natural intelligence learns so much from so little.
 ---
 
 <!-- Whatever you write below will be disregarded -->

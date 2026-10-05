@@ -35,7 +35,7 @@ title: Robust Autonomy Emerges from Self-Play
 talkdate: 13 November 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: 

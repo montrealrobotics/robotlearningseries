@@ -28,10 +28,14 @@ title: Differentiable motion planning
 talkdate: 6 November 2020
 
 # Time of the talk
-talktime: 1600 hrs EST
+talktime: 1600 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/rLvFFBHDbAs
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  In robotics and more specifically motion planning, recent debates have transitioned from a binary choice between hand crafted priors vs deep learning, towards how to leverage both ends of this spectrum. Best ways to combine them and strike a balance remains an open research question. In this talk, I will present an inference based approach to motion planning built using factor graphs and show how this setup can be used as a solid and flexible foundation in exploring the role of learning in adding value over traditional methods. We will arrive at a fully differentiable approach that can be trained end-to-end while incorporating prior knowledge.
 ---
 
 <!-- Whatever you write below will be disregarded -->

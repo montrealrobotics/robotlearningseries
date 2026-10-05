@@ -28,7 +28,7 @@ title: Hybrid Approaches for Situation Awareness in Autonomous Driving
 talkdate: 14 August 2020
 
 # Time of the talk
-talktime: 1600 hrs EST
+talktime: 1600 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/ewT0an98RRE

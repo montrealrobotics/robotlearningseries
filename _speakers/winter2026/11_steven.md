@@ -35,10 +35,14 @@ title: "Robot Navigation for Inspection and Intervention"
 talkdate: 30 April 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/vtALJJ8AhRc?si=0N0pYj1_bJXk6UXO
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  As infrastructure assets age, the required cadence of inspection and maintenance tasks increases to certify their continued safe and efficient operation. These tasks traditionally involve manual intervention by skilled technicians in remote sites. Robotic systems offer a way of increasing the productivity of these technicians while simultaneously removing them from dangerous situations. This talk will discuss how modern AI and robotic perception methods can be leveraged to enable autonomy in these challenging environments, including inside the penstocks of hydroelectric power plants, along high-voltage transmission lines, and within remote power substations.
 ---
 
 <!-- Whatever you write below will be disregarded -->

@@ -35,10 +35,14 @@ title: "Rectified Point Flow: Generic Point Cloud Pose Estimation"
 talkdate: 22 January 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/7-PKKiHqkXc?si=JAWS1LDi--3KogQr
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Robotic systems frequently confront geometric alignment problems such as point cloud registration and multi-part object assembly, which are typically addressed with task-specific pipelines and explicit pose regression. In this talk, I will present Rectified Point Flow, a unified formulation that casts both problems as a single conditional generative task by learning a continuous point-wise velocity field that transports unposed points to their target locations. This approach naturally recovers part poses and intrinsically captures object symmetries without supervision, outperforming prior methods across six benchmarks. I will conclude by discussing applications in cultural heritage, where robust alignment and assembly are critical for documenting, restoring, and reassembling fragmented artifacts and monuments.
 
 ---
 

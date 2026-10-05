@@ -35,10 +35,14 @@ title: "Trustworthy World Models for Safe Generalist Robots"
 talkdate: 12 March 2026
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/wbowx_l_Gk4
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Action-conditioned video generation models have the potential to serve as general-purpose world models for robotics. Their ability to generate photorealistic observations, simulate complex physical interactions, and be improved with data make them an attractive alternative to traditional physics-based models for policy evaluation, reinforcement learning, and inference-time planning. In this talk, I will highlight our recent work from Google DeepMind on using video models as "simulators" for evaluating generalist robot policies for performance, generalization, and safety. I will then highlight challenges with hallucinations in current video models: objects can appear or disappear, deform in unrealistic ways, or move in a manner that defies physics. I will describe work from my group at Princeton on addressing these challenges using autonomous play data, and demonstrate how the resulting models lead to significant improvements for policy evaluation and reinforcement learning inside the world model. Finally, I will talk about world models that know when they don’t know through rigorous uncertainty quantification; to our knowledge, this is the first work on calibrated uncertainty quantification for action-conditioned video models.
 ---
 
 <!-- Whatever you write below will be disregarded -->

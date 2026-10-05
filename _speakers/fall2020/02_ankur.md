@@ -28,10 +28,14 @@ title: DexPilot - Vision-based teleoperation of dextrous robotic hand-arm system
 talkdate: 25 September 2020
 
 # Time of the talk
-talktime: 1600 hrs EDT
+talktime: 1600 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/2BPa1YFhSL4
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Teleoperation offers the possibility of imparting robotic systems with sophisticated reasoning skills, intuition, and creativity to perform tasks. However, current teleoperation solutions for high degree-of-actuation (DoA), multi-fingered robots are generally cost-prohibitive, while low-cost offerings usually provide reduced degrees of control. Herein, a low-cost, vision-based teleoperation system, DexPilot, was developed that allows for complete control over the full 23 DoA robotic system by merely observing the bare human hand. DexPilot enables operators to carry out a variety of complex manipulation tasks that go beyond simple pick-and-place operations. This allows for the collection of high dimensional, multi-modality, state-action data that can be leveraged in the future to learn sensorimotor policies for challenging manipulation tasks. The system performance was measured through speed and reliability metrics across two human demonstrators on a variety of tasks.
 ---
 
 <!-- Whatever you write below will be disregarded -->

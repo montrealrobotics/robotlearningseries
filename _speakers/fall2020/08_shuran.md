@@ -28,10 +28,14 @@ title: Active scene understanding with robot interactions
 talkdate: 20 November 2020
 
 # Time of the talk
-talktime: 1600 hrs EST
+talktime: 1600 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/oHMukFPmGcI
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  Most computer vision algorithms are built with the goal to understand the physical world. Yet, as reflected in standard vision benchmarks and datasets, these algorithms continue to assume the role of a passive observer -- only watching static images or videos, without the ability to interact with the environment. This assumption becomes a fundamental limitation for applications in robotics, where systems are intrinsically built to actively engage with the physical world. In this talk, I will present some recent work from my group that demonstrates how we can enable robots to leverage their ability to interact with the environment in order to better understand what they see: from discovering objects' identity and 3D geometry to learning their physical properties. We will demonstrate how the learned knowledge can be used to facilitate downstream manipulation tasks. Finally, I will discuss a few open research directions in the area of active scene understanding.
 ---
 
 <!-- Whatever you write below will be disregarded -->

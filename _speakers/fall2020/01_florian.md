@@ -35,10 +35,14 @@ title: Robot Videography from Human Specifications
 talkdate: 4 September 2020
 
 # Time of the talk
-talktime: 1600 hrs EDT
+talktime: 1600 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/i0fPwnVe6zA
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  We consider the problem of enabling robots to help with scientific discovery. We want robots  that autonomously navigate in unstructured 3D environments, alongside environmental scientists, to help them record footage that they deem scientifically relevant. How can scientists efficiently specify the type of visual data that they want their robots to record? How should robots explore unknown natural environments according to that specification? We address these questions through representation learning methods that enable one-shot informed visual search in unknown environments. Our method can be interpreted as a way to infer the scientist's reward function over visual content. Time permitting, I will also discuss recent progress from our group in terms of continual learning, and its potential to be used in lifelong robot experiments.
 ---
 
 <!-- Whatever you write below will be disregarded -->

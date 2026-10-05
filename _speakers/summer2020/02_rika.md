@@ -28,7 +28,7 @@ title: Transfer-Aware Kernels, Priors and Latent Spaces from Sim to Real
 talkdate: 10 July 2020
 
 # Time of the talk
-talktime: 1600 hrs EST
+talktime: 1600 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/5hILdzazTVY

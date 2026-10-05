@@ -35,10 +35,14 @@ title: Resource-Rational Robot Intelligence
 talkdate: 4 December 2025
 
 # Time of the talk
-talktime: 11:00 hrs EDT
+talktime: 11:00 hrs ET
 
 # Link to the talk
 talklink: https://www.youtube.com/embed/VmZF4t8u12w?si=Qq3t8eBnMIRekRAL
+
+# Talk abstract (from the YouTube description)
+abstract: |-
+  With robots achieving remarkable feats in controlled demonstrations, the next frontier is deploying them widely in unstructured, human-centric environments. This demands exceptional robustness, efficiency and continual learning so that robots can safely adapt to novel, evolving conditions. In my talk, I will show how resource-rational robots, that learn and plan to provably minimize the cost of data and computation, offer a promising path towards widespread deployment. I will present metareasoning algorithms that deliberate about what to learn, and how to allocate scarce resources like time and human assistance at deployment time. I will also discuss planning and reinforcement learning algorithms that leverage learned policies as informative priors to rapidly generalize to new tasks and environments.
 ---
 
 <!-- Whatever you write below will be disregarded -->
