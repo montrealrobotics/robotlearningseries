@@ -29,7 +29,7 @@ affil2_link:
 img: eric_dexheimer.png
 
 # Talk title
-title: ""
+title: "Geometric Priors for Dense SLAM"
 
 # Date of the talk
 talkdate: 15 October 2026
@@ -41,7 +41,8 @@ talktime: 11:00 hrs ET
 talklink: https://www.youtube.com/embed/tuEzO1mBAgM
 
 # Talk abstract
-abstract: 
+abstract: |-
+  Dense monocular simultaneous localization and mapping (SLAM) is the task of obtaining a dense 3D reconstruction from a single camera while maintaining real-time performance, handling ambiguity, and ensuring consistency over long horizons. In this talk, we discuss learned priors and representations for dense monocular SLAM. We first show how moving beyond a single estimate of depth to a structured distribution can mitigate bias, enable compact representations, and achieve 3D consistency. We then demonstrate how feed-forward reconstruction models can be used to build a general, robust, and scalable SLAM system. Next, we examine multi-view feed-forward reconstruction models as implicit priors that provide a coupling between poses and geometry, with latent representations optimized to achieve both robustness and precision. We conclude by discussing the computational structures and parameterizations of priors needed to efficiently model the space of scenes and observers.
 ---
 
 <!-- Whatever you write below will be disregarded -->
