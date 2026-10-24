@@ -29,7 +29,7 @@ affil2_link:
 img: hongyu_li.jpg
 
 # Talk title
-title: ""
+title: "Perceiving, Predicting, and Planning Physical Interaction in Observation-Centric Coordinates"
 
 # Date of the talk
 talkdate: 29 October 2026
@@ -41,7 +41,8 @@ talktime: 11:00 hrs ET
 talklink: https://www.youtube.com/embed/U-b-11TIUV4
 
 # Talk abstract
-abstract: 
+abstract: |-
+  Robots must predict physical change and plan under uncertainty. This talk explores how expressing task intent and robot actions in observation-centric coordinates enables generalizable manipulation. I present NovaFlow and NovaPlan, which extract actionable 3D motion from generated videos for zero-shot manipulation and closed-loop planning. I then introduce Deform360 for examining the trade-offs between video prediction and explicit 3D particle dynamics. Finally, I present Hydra-0, which represents robot actions as pixel motion to learn action consequences across embodiments and support policy evaluation and control. Together, these efforts connect world models and planning through shared observation-centric interfaces.
 ---
 
 <!-- Whatever you write below will be disregarded -->
