@@ -29,7 +29,7 @@ affil2_link:
 img: haruki_nishimura.jpg
 
 # Talk title
-title: ""
+title: "Towards Trustworthy Deployment of Large Behavior Models"
 
 # Date of the talk
 talkdate: 12 November 2026
@@ -41,7 +41,8 @@ talktime: 11:00 hrs ET
 talklink: https://www.youtube.com/embed/ir0k2gX5jtE
 
 # Talk abstract
-abstract: 
+abstract: |-
+  As large generalist policies grow increasingly capable, expectations for their deployment also rise. However, ensuring a path toward trustworthy deployment is essential before this technology can safely benefit humans. This requires rigorous policy evaluation to verify positive progress over time, timely failure detection, and elastic adaptation to specific deployment conditions without forgetting previously learned behaviors. This talk presents recent research from the Trustworthy Learning under Uncertainty team at Toyota Research Institute, focusing on policy evaluation, failure detection, and adaptation for large behavior models in challenging environments.
 ---
 
 <!-- Whatever you write below will be disregarded -->
