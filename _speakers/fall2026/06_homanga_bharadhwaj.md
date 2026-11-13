@@ -29,7 +29,7 @@ affil2_link:
 img: homanga_bharadhwaj.webp
 
 # Talk title
-title: ""
+title: "Understanding and Predicting Human Behavior for Dexterous Manipulation"
 
 # Date of the talk
 talkdate: 19 November 2026
@@ -41,7 +41,8 @@ talktime: 11:00 hrs ET
 talklink: https://www.youtube.com/embed/6_ZwAPNCbs8
 
 # Talk abstract
-abstract: 
+abstract: |-
+  Humans learn by observing others and interacting with the world. Studying everyday behavior offers a window into how we perceive our surroundings, anticipate what comes next, and decide how to act. In this talk, I will present a research program that combines multimodal sensing and predictive modeling to understand human intelligence and develop robot intelligence. I will discuss how we model human goals, movements, and interactions, and how these models can guide dexterous robot manipulation in the wild.
 ---
 
 <!-- Whatever you write below will be disregarded -->
